@@ -1,0 +1,947 @@
+[
+ {
+  "title": "# of views of next MrBeast video on week 1?",
+  "end": "2026-05-31",
+  "vol": 627313,
+  "src": "YouTube",
+  "n_out": 7
+ },
+ {
+  "title": "# of views of MrBeast video day 6?",
+  "end": "2026-05-22",
+  "vol": 35141,
+  "src": "YouTube",
+  "n_out": 7
+ },
+ {
+  "title": "Will MrBeast hit ___ Billion views by May 31?",
+  "end": "2026-05-31",
+  "vol": 37033,
+  "src": "YouTube",
+  "n_out": 7
+ },
+ {
+  "title": "50m views on a MrBeast video in the first day by May 31?",
+  "end": "2026-05-31",
+  "vol": 9720,
+  "src": "YouTube",
+  "n_out": 1
+ },
+ {
+  "title": "Will MrBeast hit ___ Billion views by June 30?",
+  "end": "2026-06-30",
+  "vol": 9597,
+  "src": "YouTube",
+  "n_out": 7
+ },
+ {
+  "title": "100m views on a MrBeast video in the first week by June 30?",
+  "end": "2026-06-30",
+  "vol": 691,
+  "src": "YouTube",
+  "n_out": 1
+ },
+ {
+  "title": "How many spots will Drake have in the Billboard top 10?",
+  "end": "2026-05-30",
+  "vol": 35144,
+  "src": "Billboard/Luminate",
+  "n_out": 11
+ },
+ {
+  "title": "Which artists will have a Billboard #1 song this year?",
+  "end": "2026-12-31",
+  "vol": 142624,
+  "src": "Billboard/Luminate",
+  "n_out": 28
+ },
+ {
+  "title": "Billboard #1 Artist 2026",
+  "end": "2026-12-31",
+  "vol": 127549,
+  "src": "Billboard/Luminate",
+  "n_out": 34
+ },
+ {
+  "title": "How many albums will reach Billboard #1 in 2026?",
+  "end": "2026-12-31",
+  "vol": 13527,
+  "src": "Billboard/Luminate",
+  "n_out": 7
+ },
+ {
+  "title": "\"The Mandalorian and Grogu\" 4-day Opening Weekend Box Office",
+  "end": "2026-05-26",
+  "vol": 222099,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 5
+ },
+ {
+  "title": "\"Backrooms\" Opening Weekend Box Office",
+  "end": "2026-06-01",
+  "vol": 25825,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 5
+ },
+ {
+  "title": "\"The Devil Wears Prada 2\" 4th Weekend Box Office",
+  "end": "2026-05-25",
+  "vol": 164,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 5
+ },
+ {
+  "title": "\"Michael\" 5th Weekend Box Office",
+  "end": "2026-05-25",
+  "vol": 78,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 5
+ },
+ {
+  "title": "\"I Love Boosters\" Opening Weekend Box Office",
+  "end": "2026-05-25",
+  "vol": 63,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 5
+ },
+ {
+  "title": "What will be the top US Netflix movie this week?",
+  "end": "2026-05-26",
+  "vol": 11825,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the top global Netflix show this week?",
+  "end": "2026-05-26",
+  "vol": 2507,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the top global Netflix movie this week?",
+  "end": "2026-05-26",
+  "vol": 3279,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the #2 US Netflix movie this week?",
+  "end": "2026-05-26",
+  "vol": 1877,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the top US Netflix show this week?",
+  "end": "2026-05-26",
+  "vol": 6908,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the #2 US Netflix show this week?",
+  "end": "2026-05-26",
+  "vol": 1573,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the #2 global Netflix show this week?",
+  "end": "2026-05-26",
+  "vol": 488,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "What will be the #2 global Netflix movie this week?",
+  "end": "2026-05-26",
+  "vol": 782,
+  "src": "Netflix/FlixPatrol",
+  "n_out": 22
+ },
+ {
+  "title": "\"Star Wars: The Mandalorian and Grogu\" Rotten Tomatoes score",
+  "end": "2026-05-25",
+  "vol": 11980,
+  "src": "RottenTomatoes",
+  "n_out": 7
+ },
+ {
+  "title": "\"I Love Boosters\" Rotten Tomatoes score?",
+  "end": "2026-05-26",
+  "vol": 1437,
+  "src": "RottenTomatoes",
+  "n_out": 5
+ },
+ {
+  "title": "\"Passenger\" Rotten Tomatoes score?",
+  "end": "2026-05-25",
+  "vol": 254,
+  "src": "RottenTomatoes",
+  "n_out": 4
+ },
+ {
+  "title": "Top Spotify artist in May?",
+  "end": "",
+  "vol": 65915,
+  "src": "Spotify",
+  "n_out": 40
+ },
+ {
+  "title": "Top Spotify Artist 2026",
+  "end": "2026-12-31",
+  "vol": 1314839,
+  "src": "Spotify",
+  "n_out": 46
+ },
+ {
+  "title": "#2 Spotify artist in May?",
+  "end": "2026-05-31",
+  "vol": 2281,
+  "src": "Spotify",
+  "n_out": 40
+ },
+ {
+  "title": "Will MrBeast hit ___ Million subscribers by June 30?",
+  "end": "2026-06-30",
+  "vol": 42746,
+  "src": "YouTube",
+  "n_out": 6
+ },
+ {
+  "title": "Will xQc beat Forsen's Minecraft speedrun record by...?",
+  "end": "2026-07-01",
+  "vol": 17080,
+  "src": "OTHER/unclear",
+  "n_out": 2
+ },
+ {
+  "title": "Drake 'Iceman' First Week Album Sales?",
+  "end": "2026-08-31",
+  "vol": 1769504,
+  "src": "OTHER/unclear",
+  "n_out": 8
+ },
+ {
+  "title": "Olivia Rodrigo 'you seem pretty sad for a girl so in love' F",
+  "end": "2026-06-19",
+  "vol": 3597,
+  "src": "OTHER/unclear",
+  "n_out": 7
+ },
+ {
+  "title": "Drake 'Habibti' First Week Album Sales?",
+  "end": "2026-05-22",
+  "vol": 75101,
+  "src": "OTHER/unclear",
+  "n_out": 6
+ },
+ {
+  "title": "Drake 'Maid of Honor' First Week Album Sales?",
+  "end": "2026-05-22",
+  "vol": 43222,
+  "src": "OTHER/unclear",
+  "n_out": 6
+ },
+ {
+  "title": "Which movie has biggest opening weekend in 2026?",
+  "end": "2026-12-31",
+  "vol": 1582267,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 27
+ },
+ {
+  "title": "Will Dune 3 or Avengers: Doomsday gross more on their openin",
+  "end": "2026-12-20",
+  "vol": 39066,
+  "src": "TheNumbers/BoxOffice",
+  "n_out": 1
+ },
+ {
+  "title": "Which 2026 movies will make it into the IMDb Top 250?",
+  "end": "2027-03-31",
+  "vol": 1332,
+  "src": "OTHER/unclear",
+  "n_out": 5
+ },
+ {
+  "title": "Will a hurricane make landfall in the US by May 31?",
+  "end": "2026-05-31",
+  "vol": 28781,
+  "src": "NOAA/NWS-weather",
+  "n_out": 1
+ },
+ {
+  "title": "Named storm forms before hurricane season?",
+  "end": "2026-05-31",
+  "vol": 342859,
+  "src": "NOAA/NWS-weather",
+  "n_out": 1
+ },
+ {
+  "title": "Will any Category 4 hurricane make landfall in the US in bef",
+  "end": "2026-12-31",
+  "vol": 328362,
+  "src": "NOAA/NWS-weather",
+  "n_out": 1
+ },
+ {
+  "title": "Natural Disaster in 2026?",
+  "end": "2026-12-31",
+  "vol": 219316,
+  "src": "USGS-quake",
+  "n_out": 1
+ },
+ {
+  "title": "Will a hurricane form by May 31?",
+  "end": "2026-05-31",
+  "vol": 51217,
+  "src": "NOAA/NWS-weather",
+  "n_out": 1
+ },
+ {
+  "title": "Will Snowflake (SNOW) beat quarterly earnings?",
+  "end": "2026-05-27",
+  "vol": 55,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "How many major Space Weather events this week? (May 17 - May",
+  "end": "2026-05-23",
+  "vol": 403,
+  "src": "NOAA/NWS-weather",
+  "n_out": 7
+ },
+ {
+  "title": "Hantavirus pandemic in 2026?",
+  "end": "2026-12-31",
+  "vol": 12144274,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Highest temperature in Hong Kong on May 21?",
+  "end": "2026-05-21",
+  "vol": 274680,
+  "src": "NOAA/NWS-weather",
+  "n_out": 11
+ },
+ {
+  "title": "Highest temperature in Toronto on May 21?",
+  "end": "2026-05-21",
+  "vol": 159522,
+  "src": "NOAA/NWS-weather",
+  "n_out": 11
+ },
+ {
+  "title": "Highest temperature in London on May 21?",
+  "end": "2026-05-21",
+  "vol": 152519,
+  "src": "NOAA/NWS-weather",
+  "n_out": 11
+ },
+ {
+  "title": "Highest temperature in NYC on May 21?",
+  "end": "2026-05-21",
+  "vol": 103394,
+  "src": "NOAA/NWS-weather",
+  "n_out": 11
+ },
+ {
+  "title": "Highest temperature in Seoul on May 22?",
+  "end": "2026-05-22",
+  "vol": 79078,
+  "src": "NOAA/NWS-weather",
+  "n_out": 11
+ },
+ {
+  "title": "Highest temperature in London on May 22?",
+  "end": "2026-05-22",
+  "vol": 82310,
+  "src": "NOAA/NWS-weather",
+  "n_out": 11
+ },
+ {
+  "title": "Major volcano eruption (VEI ?6) in 2026?",
+  "end": "2027-03-31",
+  "vol": 80639,
+  "src": "USGS-quake",
+  "n_out": 1
+ },
+ {
+  "title": "Megaquake by June 30?",
+  "end": "2026-06-30",
+  "vol": 67716,
+  "src": "USGS-quake",
+  "n_out": 1
+ },
+ {
+  "title": "Will the AAVE TVL go below $10B in 2026?",
+  "end": "2027-01-01",
+  "vol": 420,
+  "src": "DefiLlama/onchain",
+  "n_out": 1
+ },
+ {
+  "title": "Kraken IPO closing market cap above ___ ?",
+  "end": "2027-01-01",
+  "vol": 120059,
+  "src": "DefiLlama/onchain",
+  "n_out": 7
+ },
+ {
+  "title": "Consensys IPO closing market cap above ___ ?",
+  "end": "2027-01-01",
+  "vol": 321807,
+  "src": "DefiLlama/onchain",
+  "n_out": 3
+ },
+ {
+  "title": "Will Bitcoin Dominance hit 70% before 2027?",
+  "end": "2027-01-01",
+  "vol": 25510,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Will X launch a USD stablecoin in 2026?",
+  "end": "2027-01-01",
+  "vol": 8365,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Will USD-denominated stablecoin market share fall below 99% ",
+  "end": "2027-01-01",
+  "vol": 46128,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Will Revolut launch a USD stablecoin in 2026?",
+  "end": "2027-01-01",
+  "vol": 16195,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Will Meta launch a USD stablecoin in 2026?",
+  "end": "2027-01-01",
+  "vol": 1292,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Will stablecoins hit $500B before 2027?",
+  "end": "2027-01-01",
+  "vol": 578015,
+  "src": "DefiLlama/onchain",
+  "n_out": 1
+ },
+ {
+  "title": "Stablecoins depeg before 2027?",
+  "end": "2027-01-01",
+  "vol": 290524,
+  "src": "OTHER/unclear",
+  "n_out": 10
+ },
+ {
+  "title": "Will gas hit __ by end of May?",
+  "end": "2026-05-31",
+  "vol": 149393,
+  "src": "OTHER/unclear",
+  "n_out": 13
+ },
+ {
+  "title": "Federal Gas Tax Suspended by...?",
+  "end": "2026-12-31",
+  "vol": 7124,
+  "src": "GitHub/official",
+  "n_out": 2
+ },
+ {
+  "title": "What will Natural Gas (NG) hit in May 2026?",
+  "end": "2026-06-01",
+  "vol": 273542,
+  "src": "OTHER/unclear",
+  "n_out": 18
+ },
+ {
+  "title": "Natural Gas (NG) Up or Down on May 21?",
+  "end": "2026-05-21",
+  "vol": 11665,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "What will Natural Gas (NG) hit Week of May 18 2026?",
+  "end": "2026-05-22",
+  "vol": 27899,
+  "src": "OTHER/unclear",
+  "n_out": 14
+ },
+ {
+  "title": "Will Apple release a new product line before 2027?",
+  "end": "2026-12-31",
+  "vol": 280906,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Which artists will release new albums in 2026?",
+  "end": "2026-12-31",
+  "vol": 199899,
+  "src": "Spotify",
+  "n_out": 22
+ },
+ {
+  "title": "Will Apple release a foldable iPhone before 2027?",
+  "end": "2026-12-31",
+  "vol": 162995,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Will OpenAI release a social network in 2026?",
+  "end": "2026-12-31",
+  "vol": 56153,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Will Apple release iPhone 18 in 2026?",
+  "end": "2026-12-31",
+  "vol": 105026,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Will the Steam Machine cost $700 or more at release?",
+  "end": "2025-12-31",
+  "vol": 160836,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Will Trump Mobile release a phone by...?",
+  "end": "2026-06-30",
+  "vol": 42043,
+  "src": "GitHub/official",
+  "n_out": 2
+ },
+ {
+  "title": "Will OpenAI release a new frontier model by...?",
+  "end": "2026-09-30",
+  "vol": 12058,
+  "src": "GitHub/official",
+  "n_out": 3
+ },
+ {
+  "title": "Which artists will release a new song in 2026?",
+  "end": "2026-12-31",
+  "vol": 117349,
+  "src": "Spotify",
+  "n_out": 15
+ },
+ {
+  "title": "Will Apple release a touchscreen MacBook in 2026?",
+  "end": "2026-12-31",
+  "vol": 30077,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Will Taylor Swift release \"Taylor Swift (Taylor's Version)\" ",
+  "end": "2026-12-31",
+  "vol": 1560,
+  "src": "Spotify",
+  "n_out": 1
+ },
+ {
+  "title": "Strait of Hormuz traffic returns to normal by end of May?",
+  "end": "2026-05-31",
+  "vol": 18354393,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Strait of Hormuz traffic returns to normal by end of June?",
+  "end": "2026-06-30",
+  "vol": 7775431,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Strait of Hormuz traffic returns to normal by July 31?",
+  "end": "2026-07-31",
+  "vol": 698924,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Strait of Hormuz traffic returns to normal by December 31?",
+  "end": "2026-12-31",
+  "vol": 243682,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Will __ ships transit the Strait of Hormuz on any day by May",
+  "end": "2026-05-31",
+  "vol": 625278,
+  "src": "OTHER/unclear",
+  "n_out": 4
+ },
+ {
+  "title": "How many ships transit the Strait of Hormuz week of May 18?",
+  "end": "2026-05-24",
+  "vol": 28877,
+  "src": "OTHER/unclear",
+  "n_out": 5
+ },
+ {
+  "title": "Which company has best AI model end of June?",
+  "end": "2026-06-30",
+  "vol": 7037054,
+  "src": "OTHER/unclear",
+  "n_out": 19
+ },
+ {
+  "title": "Which company has the best AI model end of May?",
+  "end": "2026-05-31",
+  "vol": 10305372,
+  "src": "OTHER/unclear",
+  "n_out": 29
+ },
+ {
+  "title": "Trump orders federal review of AI model releases by May 31?",
+  "end": "2026-05-31",
+  "vol": 128603,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Which company has the best Math AI model end of May?",
+  "end": "2026-05-31",
+  "vol": 213349,
+  "src": "OTHER/unclear",
+  "n_out": 29
+ },
+ {
+  "title": "Which company has the #1 AI model end of May? (Style Control",
+  "end": "2026-05-31",
+  "vol": 737951,
+  "src": "OTHER/unclear",
+  "n_out": 29
+ },
+ {
+  "title": "Which company has top AI model end of June? (Style Control O",
+  "end": "2026-06-30",
+  "vol": 1480323,
+  "src": "OTHER/unclear",
+  "n_out": 19
+ },
+ {
+  "title": "Which company has the third best AI model end of May?",
+  "end": "2026-05-31",
+  "vol": 139591,
+  "src": "OTHER/unclear",
+  "n_out": 29
+ },
+ {
+  "title": "Will a Chinese AI model become #1 by June 30? ",
+  "end": "2026-06-30",
+  "vol": 246819,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "Which company has the second best AI model end of May?",
+  "end": "2026-05-31",
+  "vol": 234716,
+  "src": "OTHER/unclear",
+  "n_out": 29
+ },
+ {
+  "title": "#1 Free App in the US Apple App Store on May 22?",
+  "end": "2026-05-22",
+  "vol": 4136,
+  "src": "OTHER/unclear",
+  "n_out": 20
+ },
+ {
+  "title": "#1 Paid App in the US Apple App Store on May 22?",
+  "end": "2026-05-22",
+  "vol": 1143,
+  "src": "OTHER/unclear",
+  "n_out": 20
+ },
+ {
+  "title": "#2 Free App in the US Apple App Store on May 22?",
+  "end": "2026-05-22",
+  "vol": 638,
+  "src": "OTHER/unclear",
+  "n_out": 20
+ },
+ {
+  "title": "May Inflation US - Annual",
+  "end": "2026-06-10",
+  "vol": 164006,
+  "src": "Fed/BLS-econ",
+  "n_out": 12
+ },
+ {
+  "title": "May Inflation US - Monthly",
+  "end": "2026-06-10",
+  "vol": 16807,
+  "src": "Fed/BLS-econ",
+  "n_out": 9
+ },
+ {
+  "title": "Price of Dozen Eggs in May?",
+  "end": "2026-06-10",
+  "vol": 15183,
+  "src": "Fed/BLS-econ",
+  "n_out": 10
+ },
+ {
+  "title": "Brazil Annual Inflation 2026",
+  "end": "2027-01-12",
+  "vol": 59983,
+  "src": "GitHub/official",
+  "n_out": 10
+ },
+ {
+  "title": "China Annual Inflation 2026",
+  "end": "2027-01-10",
+  "vol": 43199,
+  "src": "Fed/BLS-econ",
+  "n_out": 9
+ },
+ {
+  "title": "Argentina Annual Inflation 2026",
+  "end": "2027-01-10",
+  "vol": 9866,
+  "src": "Fed/BLS-econ",
+  "n_out": 7
+ },
+ {
+  "title": "Mexico Annual Inflation 2026",
+  "end": "2027-01-08",
+  "vol": 41871,
+  "src": "OTHER/unclear",
+  "n_out": 8
+ },
+ {
+  "title": "India Annual Inflation 2026",
+  "end": "2027-01-12",
+  "vol": 60659,
+  "src": "Fed/BLS-econ",
+  "n_out": 7
+ },
+ {
+  "title": "South Africa Annual Inflation 2026",
+  "end": "2027-01-20",
+  "vol": 21395,
+  "src": "Fed/BLS-econ",
+  "n_out": 10
+ },
+ {
+  "title": "How high will US unemployment go in 2026?",
+  "end": "2026-12-31",
+  "vol": 408225,
+  "src": "Fed/BLS-econ",
+  "n_out": 5
+ },
+ {
+  "title": "May Unemployment Rate",
+  "end": "2026-06-05",
+  "vol": 1071,
+  "src": "Fed/BLS-econ",
+  "n_out": 9
+ },
+ {
+  "title": "Will Canada have the highest unemployment rate since 2016 th",
+  "end": "2027-02-15",
+  "vol": 6345,
+  "src": "Fed/BLS-econ",
+  "n_out": 1
+ },
+ {
+  "title": "China Annual GDP Growth 2026",
+  "end": "2026-01-31",
+  "vol": 671394,
+  "src": "OTHER/unclear",
+  "n_out": 10
+ },
+ {
+  "title": "China GDP growth (Y/Y) in Q2 2026?",
+  "end": "2026-07-16",
+  "vol": 27335,
+  "src": "OTHER/unclear",
+  "n_out": 9
+ },
+ {
+  "title": "GDP growth in 2026",
+  "end": "2027-01-29",
+  "vol": 28465,
+  "src": "OTHER/unclear",
+  "n_out": 6
+ },
+ {
+  "title": "Brazil GDP Growth in Q1 2026?",
+  "end": "2026-05-29",
+  "vol": 21357,
+  "src": "OTHER/unclear",
+  "n_out": 7
+ },
+ {
+  "title": "Eurozone Annual GDP Growth 2026",
+  "end": "2027-01-31",
+  "vol": 8730,
+  "src": "OTHER/unclear",
+  "n_out": 9
+ },
+ {
+  "title": "Fed rate cut by...?",
+  "end": "2026-06-17",
+  "vol": 1742720,
+  "src": "Fed/BLS-econ",
+  "n_out": 8
+ },
+ {
+  "title": "Fed emergency rate cut before 2027?",
+  "end": "2026-12-31",
+  "vol": 105255,
+  "src": "Fed/BLS-econ",
+  "n_out": 1
+ },
+ {
+  "title": "ECB rate cut in 2026?",
+  "end": "2026-12-31",
+  "vol": 27989,
+  "src": "OTHER/unclear",
+  "n_out": 1
+ },
+ {
+  "title": "How many Fed rate cuts in 2026?",
+  "end": "2026-12-31",
+  "vol": 28710650,
+  "src": "Fed/BLS-econ",
+  "n_out": 13
+ },
+ {
+  "title": "What will Trump say during Kevin Warsh's Swearing-In?",
+  "end": "2026-05-22",
+  "vol": 5817,
+  "src": "OTHER/unclear",
+  "n_out": 23
+ },
+ {
+  "title": "How high will inflation get in 2026?",
+  "end": "2026-12-31",
+  "vol": 1002441,
+  "src": "Fed/BLS-econ",
+  "n_out": 8
+ },
+ {
+  "title": "Argentina Monthly Inflation - May",
+  "end": "2026-06-11",
+  "vol": 47900,
+  "src": "Fed/BLS-econ",
+  "n_out": 8
+ },
+ {
+  "title": "Bank of Canada Rate Hike in 2026?",
+  "end": "2026-12-31",
+  "vol": 8061,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Bank of England rate hike in 2026?",
+  "end": "2026-12-31",
+  "vol": 30578,
+  "src": "GitHub/official",
+  "n_out": 1
+ },
+ {
+  "title": "Bank of Israel Decision in May?",
+  "end": "2026-05-25",
+  "vol": 46442,
+  "src": "GitHub/official",
+  "n_out": 3
+ },
+ {
+  "title": "South African Reserve Bank Decision in May?",
+  "end": "2026-05-28",
+  "vol": 11846,
+  "src": "GitHub/official",
+  "n_out": 3
+ },
+ {
+  "title": "Bank of Israel Decision in July?",
+  "end": "2026-07-06",
+  "vol": 1199,
+  "src": "GitHub/official",
+  "n_out": 3
+ },
+ {
+  "title": "Bank of Canada Decision in July?",
+  "end": "2026-07-15",
+  "vol": 4031,
+  "src": "GitHub/official",
+  "n_out": 5
+ },
+ {
+  "title": "Central Bank of Colombia decision in July?",
+  "end": "2026-07-31",
+  "vol": 49,
+  "src": "GitHub/official",
+  "n_out": 5
+ },
+ {
+  "title": "UEFA Champions League: Top Scorer (Club)",
+  "end": "2026-05-31",
+  "vol": 36024,
+  "src": "GitHub/official",
+  "n_out": 27
+ },
+ {
+  "title": "UEFA Europa Conference League: Most Goal Contributions",
+  "end": "2026-05-28",
+  "vol": 48244,
+  "src": "GitHub/official",
+  "n_out": 36
+ },
+ {
+  "title": "UEFA Europa League: Most Goal Contributions",
+  "end": "2026-05-21",
+  "vol": 7132,
+  "src": "GitHub/official",
+  "n_out": 34
+ },
+ {
+  "title": "MLS: 2026 Golden Boot Winner",
+  "end": "2026-11-22",
+  "vol": 4480,
+  "src": "GitHub/official",
+  "n_out": 59
+ },
+ {
+  "title": "MLB: Home Runs Leader",
+  "end": "2026-09-28",
+  "vol": 13517,
+  "src": "GitHub/official",
+  "n_out": 102
+ },
+ {
+  "title": "MLB: 4-homer game in 2026?",
+  "end": "2026-09-28",
+  "vol": 3,
+  "src": "GitHub/official",
+  "n_out": 1
+ }
+]
